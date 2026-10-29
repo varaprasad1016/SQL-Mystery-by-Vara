@@ -1,5 +1,5 @@
 # The Ashvale Files — a SQL mystery
-
+https://ashvalefiles-sqlmystery.netlify.app/
 A noir detective game that teaches SQL from `SELECT` to `CREATE TABLE`, following the
 W3Schools SQL tutorial chapter by chapter. Five cases, 42 chapters, one real SQLite
 database running in the browser.
